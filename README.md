@@ -23,6 +23,7 @@ The project also looks at how changing the model parameters affects how well it 
 This project does not implement custom classes. Instead, it uses machine learning classes provided by Scikit-Learn.
 
 ### Models Used
+
 * "RandomForestRegressor" is a model that uses a group of decision trees to make predictions.
 * "LinearRegression" is a simple regression model that fits a linear equation to the data.
 * `KNeighborsRegressor` is a model that uses the average of nearby data points to make predictions.
